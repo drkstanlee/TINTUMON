@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Amalser working!')
+            chalk.green.bold('✅ TINTUMON  working!')
         );
     });
     
@@ -261,7 +261,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Amalser ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ TINTUMON  ~______~*' +
                                     '\n\n*📩 ' + error + '*\n'
                                     , MessageType.text);
                             }
